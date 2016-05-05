@@ -1,0 +1,32 @@
+{
+  "name": "simple-day-of-week",
+  "version": "1.0.0",
+  "description": "A simple function that returns the day of week for any given day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grexecutioner/simple-day-of-week.git"
+  },
+  "keywords": [
+    "calendar",
+    "day",
+    "simple",
+    "week",
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "author": "Andrew Grexa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Grexecutioner/simple-day-of-week/issues"
+  },
+  "homepage": "https://github.com/Grexecutioner/simple-day-of-week#readme"
+}
