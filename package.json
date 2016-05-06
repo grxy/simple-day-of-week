@@ -1,6 +1,6 @@
 {
   "name": "simple-day-of-week",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple function that returns the day of week for any given day",
   "main": "index.js",
   "scripts": {
